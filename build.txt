@@ -1,0 +1,3 @@
+displayName = Gothic Furniture Overhaul
+author = Nytrock
+version = 0.1

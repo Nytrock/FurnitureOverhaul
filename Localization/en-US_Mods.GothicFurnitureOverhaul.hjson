@@ -1,0 +1,91 @@
+Items: {
+	GothicBathtub: {
+		DisplayName: Gothic Bathtub
+		Tooltip: ""
+	}
+
+	GothicBed: {
+		DisplayName: Gothic Bed
+		Tooltip: ""
+	}
+
+	GothicCandelabra: {
+		DisplayName: Gothic Candelabra
+		Tooltip: ""
+	}
+
+	GothicCandle: {
+		DisplayName: Gothic Candle
+		Tooltip: ""
+	}
+
+	GothicChandeller: {
+		DisplayName: Gothic Chandeller
+		Tooltip: ""
+	}
+
+	GothicChest: {
+		DisplayName: Gothic Chest
+		Tooltip: ""
+	}
+
+	GothicClock: {
+		DisplayName: Gothic Clock
+		Tooltip: ""
+	}
+
+	GothicDoor: {
+		DisplayName: Gothic Door
+		Tooltip: ""
+	}
+
+	GothicDresser: {
+		DisplayName: Gothic Dresser
+		Tooltip: ""
+	}
+
+	GothicLamp: {
+		DisplayName: Gothic Lamp
+		Tooltip: ""
+	}
+
+	GothicLantern: {
+		DisplayName: Gothic Lantern
+		Tooltip: ""
+	}
+
+	GothicPiano: {
+		DisplayName: Gothic Piano
+		Tooltip: ""
+	}
+
+	GothicPlatform: {
+		DisplayName: Gothic Platform
+		Tooltip: ""
+	}
+
+	GothicSink: {
+		DisplayName: Gothic Sink
+		Tooltip: ""
+	}
+
+	GothicSofa: {
+		DisplayName: Gothic Sofa
+		Tooltip: ""
+	}
+
+	GothicToilet: {
+		DisplayName: Gothic Toilet
+		Tooltip: ""
+	}
+
+	GothicTreeSapling: {
+		DisplayName: Gothic Tree Sapling
+		Tooltip: ""
+	}
+
+	GothicWood: {
+		DisplayName: Gothic Wood
+		Tooltip: ""
+	}
+}
