@@ -1,6 +1,6 @@
 ﻿using Terraria.ModLoader;
 
-namespace GothicFurnitureOverhaul.Content.Items.Furniture
+namespace FurnitureOverhaul.Content.Items.Furniture
 {
     public class GothicSofa : ModItem
     {

@@ -1,6 +1,6 @@
 ﻿using Terraria.ModLoader;
 
-namespace GothicFurnitureOverhaul.Content.Tiles
+namespace FurnitureOverhaul.Content.Tiles
 {
     public class GothicTree : ModTile
     {

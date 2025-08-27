@@ -1,9 +1,7 @@
 ﻿using Terraria.ModLoader;
 
-namespace GothicFurnitureOverhaul.Content.Items
-{
-    public class GothicTreeSapling : ModItem
-    {
+namespace FurnitureOverhaul.Content.Items {
+    public class GothicTreeSapling : ModItem {
 
     }
 }

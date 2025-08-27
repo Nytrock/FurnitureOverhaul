@@ -1,6 +1,6 @@
 ﻿using Terraria.ModLoader;
 
-namespace GothicFurnitureOverhaul.Content.Tiles.Furniture
+namespace FurnitureOverhaul.Content.Tiles.Furniture
 {
     public class GothicDresser : ModTile
     {
